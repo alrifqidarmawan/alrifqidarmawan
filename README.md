@@ -19,7 +19,7 @@
 - [To-Do List App](https://github.com/rifqi-weekend-projects/todo-list-app-java-postgre) - A simple yet powerful task management app built with **Java** and **PostgreSQL**. Features include adding, editing, deleting tasks, and marking them as completed. Designed with a clean and intuitive user interface.
 
 ### GitHub Stats
-![Alrifqi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifqidarmawan&show_icons=true&theme=radical)
+![Alrifqi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alrifqidarmawan&show_icons=true&theme=radical)
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhalrifqidar/)  
