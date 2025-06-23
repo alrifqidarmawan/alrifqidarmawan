@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on improving my problem-solving skills through CodeWars & personal projects.
 - 🌱 I’m currently learning **Java**, **Algorithms**, and **Data Structures**.
 - 👯 I’m looking to collaborate on **web development projects**.
-- 💬 Ask me about **Laravel, Vue.js, Java, and database management**.
+- 💬 Ask me about **Laravel, React.js, Java, and database management**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhalrifqidar/) or [Email](mailto:rifqidarmawan24@gmail.com).
 - ⚡ Fun fact: I love learning new things and am deeply passionate about coding—debugging and optimizing code is my jam!
 
